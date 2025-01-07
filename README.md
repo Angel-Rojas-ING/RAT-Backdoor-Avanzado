@@ -44,6 +44,9 @@ Usen la Herramienta que les deje en el Repositorio y hagan lo siguiente:
 
 > ./Escucha.sh
 
+> # Resultado final
+
+https://github.com/user-attachments/assets/9f9cb60c-2fbf-4dc9-8f26-1dab24e1b330
 
 
 
