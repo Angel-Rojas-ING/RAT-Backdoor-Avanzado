@@ -17,3 +17,16 @@ Este repositorio contiene un script desarrollado en PowerShell que implementa un
 
 ## Aviso Legal
 Este proyecto está destinado únicamente a fines educativos y de investigación. El uso no autorizado de este código en sistemas reales puede violar leyes locales, nacionales o internacionales. El autor no se hace responsable del uso indebido de este código.
+
+## Requisitos
+
+1. Maquina en la nube que ofresca ip publica.
+2. Convertidor de PS1 a EXE
+
+# Como inicializar el el Malware.
+
+Tomamos el Archivo PS1 y le Haremos unos cambios, vamos a cambiar los siguiente:
+
+## 1.
+![imagen](https://github.com/user-attachments/assets/6c9ee06f-3f7a-4037-8614-7c34b60204e1)
+
