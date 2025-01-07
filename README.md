@@ -46,7 +46,10 @@ Usen la Herramienta que les deje en el Repositorio y hagan lo siguiente:
 
 > # Resultado final
 
-https://github.com/user-attachments/assets/9f9cb60c-2fbf-4dc9-8f26-1dab24e1b330
+
+
+https://github.com/user-attachments/assets/3fa78df1-d30f-4036-8682-bba14c354fee
+
 
 
 
