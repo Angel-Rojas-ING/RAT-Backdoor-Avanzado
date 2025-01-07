@@ -65,11 +65,11 @@ install_netcat() {
     fi
 }
 
-# Función para escuchar peticiones en el puerto
+# Función para escuchar peticiones en el puerto con nc -lvnp
 listen_on_port() {
     local port="$1"
     printf "Escuchando en el puerto %s...\n" "$port"
-    "$NC_COMMAND" -l -p "$port"
+    "$NC_COMMAND" -lvnp "$port"
 }
 
 # Función principal
