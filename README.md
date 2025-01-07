@@ -25,8 +25,10 @@ Este proyecto está destinado únicamente a fines educativos y de investigación
 
 # Como inicializar el el Malware.
 
-Tomamos el Archivo PS1 y le Haremos unos cambios, vamos a cambiar los siguiente:
+Tomamos el Archivo PS1 y le Haran los cambios segun los comentarios se los vallan pidiendo.
 
-## 1.
-![imagen](https://github.com/user-attachments/assets/6c9ee06f-3f7a-4037-8614-7c34b60204e1)
+# Como convertir de PS1 a Exe. 
+
+Usen la Herramienta que les deje en el Repositorio y hagan lo siguiente
+
 
