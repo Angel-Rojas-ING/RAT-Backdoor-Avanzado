@@ -1,0 +1,2 @@
+Inicio de Camara:
+Start-Process "microsoft.windows.camera:"
