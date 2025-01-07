@@ -44,10 +44,6 @@ Usen la Herramienta que les deje en el Repositorio y hagan lo siguiente:
 
 > ./Escucha.sh
 
-2.SI USAS NGROK ho PAT SE QUE SABES QUE DEBES HACER
-
-> # En resumen todo Funcionaria de la Siguiente forma.
-
 
 
 
