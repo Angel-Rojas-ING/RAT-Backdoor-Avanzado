@@ -36,6 +36,7 @@ Usen la Herramienta que les deje en el Repositorio y hagan lo siguiente:
 # Ya tienen todo listo solo resta configurar el Servidor en la nube, su NGROK, oh su PATque manejara la peticiones
 
 1.Usen el script que dejare que les pondra a escuhar las peticiones
+
 2.SI USAS NGROK ho PAT SE QUE SABES QUE DEBES HACER
 
 
