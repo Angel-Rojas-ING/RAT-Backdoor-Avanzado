@@ -29,6 +29,13 @@ Tomamos el Archivo PS1 y le Haran los cambios segun los comentarios se los valla
 
 # Como convertir de PS1 a Exe. 
 
-Usen la Herramienta que les deje en el Repositorio y hagan lo siguiente
+Usen la Herramienta que les deje en el Repositorio y hagan lo siguiente:
+
+![Hi](https://github.com/user-attachments/assets/dba0c8e1-3ad8-41c0-9ab6-0b9bc74795c6)
+
+# Ya tienen todo listo solo resta configurar el Servidor en la nube, su NGROK, oh su PATque manejara la peticiones
+
+1.Usen el script que dejare que les pondra a escuhar las peticiones
+2.SI USAS NGROK ho PAT SE QUE SABES QUE DEBES HACER
 
 
